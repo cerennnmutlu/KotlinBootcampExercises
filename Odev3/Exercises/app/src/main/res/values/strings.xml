@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneStore</string>
+    <string name="product_name">Samsung Galaxy S24</string>
+    <string name="delivery">Delivery</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_description">Next-gen performance, ultra-clear camera, and sleek design – your smart companion.</string>
+</resources>
